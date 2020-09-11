@@ -10114,6 +10114,13 @@ button.bg-dark:focus {
   text-align: center !important;
 }
 
+.iron-guitar-photo {
+  height: auto;
+  width: 35%;
+  border-radius: 15%;
+  border: 7px solid grey;
+  margin: 20px 0;
+}
 @media (min-width: 576px) {
   .text-sm-left {
     text-align: left !important;
